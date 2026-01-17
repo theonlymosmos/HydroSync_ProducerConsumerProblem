@@ -4,7 +4,7 @@
 ![JavaFX](https://img.shields.io/badge/JavaFX-GUI-4285F4?style=for-the-badge)
 ![Concurrency](https://img.shields.io/badge/Pattern-Producer--Consumer-success?style=for-the-badge)
 
-**HydroSync** is a multi-threaded simulation of a high-volume service station, engineered to demonstrate advanced Operating System concepts including **process synchronization**, **resource management**, and **deadlock prevention**.
+**HydroSync**  is a multi-threaded simulation of a high-volume service station, engineered to demonstrate advanced Operating System concepts including **process synchronization**, **resource management**, and **deadlock prevention**.
 
 It implements the classic **Producer-Consumer** problem using the **Bounded Buffer** pattern, visualized through a real-time JavaFX dashboard.
 
